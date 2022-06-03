@@ -1,1 +1,1 @@
-# Асинхронные запросы - fetch, axios + async await
+# Асинхронные запросы - fetch, axios + async await + lottery
